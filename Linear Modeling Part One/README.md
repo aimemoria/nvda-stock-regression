@@ -6,6 +6,7 @@ This project applies multiple linear regression to predict NVIDIA (NVDA) stock c
 ## Authors
 - **Aime Serge Tuyishime**
 - **Nshuti Manzi Christian**
+- **Nshuti Clay Bower**
 
 **Course:** Data Mining and Machine Learning (AIT-104)  
 **Instructor:** M. A. Manazir Ahsan
