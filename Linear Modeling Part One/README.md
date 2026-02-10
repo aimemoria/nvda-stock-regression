@@ -8,9 +8,6 @@ This project applies multiple linear regression to predict NVIDIA (NVDA) stock c
 - **Nshuti Manzi Christian**
 - **Clay Bower**
 
-**Course:** Data Mining and Machine Learning (AIT-104)  
-**Instructor:** M. A. Manazir Ahsan
-
 ## Dataset
 - **File:** `NVDA_Stock_Regression_Data.csv`
 - **Records:** 1,256 trading days
@@ -75,7 +72,6 @@ README.md                                # This file
 5. **Validation:** Residual analysis, cross-validation, assumption verification
 6. **Visualization:** Diagnostic plots and performance charts
 7. **Error Analysis:** Confidence intervals and error sources
-8. **Ethical Reflection:** Christian worldview perspective on algorithmic trading
 
 ## Key Findings
 
@@ -100,7 +96,4 @@ README.md                                # This file
 - Add ESG metrics for ethical investment screening
 
 ## License
-Academic project for educational purposes.
-
-## Contact
-For questions or collaboration, contact the authors through the course instructor.
+MIT
